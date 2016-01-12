@@ -3,3 +3,6 @@
 
 Егреші Іван:
 Hello, world
+
+Dziuba Vlad:
+Зачем нужун был merge commit, похоже я что-то не так сделал.
